@@ -1,0 +1,12 @@
+income_stream,low_gross_jpy,base_gross_jpy,high_gross_jpy,agency_cut_low,agency_cut_base,agency_cut_high,low_personal_pre_tax_jpy,base_personal_pre_tax_jpy,high_personal_pre_tax_jpy,confidence,notes
+动画 / 剧场配音,,,,0.30,0.25,0.20,,,,中,
+游戏 / 外画 / 旁白,,,,0.30,0.25,0.20,,,,低,
+广播 / 节目,,,,0.30,0.25,0.20,,,,中,
+会员订阅,,,,0.30,0.25,0.20,,,,低,
+live 固定出演费,,,,0.30,0.25,0.20,,,,中低,
+live 分成 / 配信 / 物贩 bonus,,,,0.30,0.25,0.20,,,,低,
+音乐 / 角色歌,,,,0.30,0.25,0.20,,,,低,
+联名 / 周边 / 商品化,,,,0.30,0.25,0.20,,,,低,
+CM / 广告 / 旁白,,,,0.30,0.25,0.20,,,,低,
+IP 权益分成,0,0,,0.30,0.25,0.20,0,0,,低,默认设为 0，除非有公开证据
+TOTAL,,,,,,,,,,,
