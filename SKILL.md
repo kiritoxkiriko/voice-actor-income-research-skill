@@ -1,3 +1,8 @@
+---
+name: voice-actor-income-research-skill
+description: 基于公开资料估算日本声优相关艺人的年收入，提供可复核模型与保守/基准/乐观三情景。
+---
+
 # 日本声优年收入估算调研 Skill
 
 ## 适用场景
